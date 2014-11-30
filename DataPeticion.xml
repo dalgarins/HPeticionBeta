@@ -1,0 +1,31 @@
+<com.dcore.request.DataPeticion>
+  <url>http://www.prueba.com</url>
+  <header>
+    <listHeader>
+      <entry>
+        <string>Cookie</string>
+        <string>Prueba</string>
+      </entry>
+      <entry>
+        <string>Referer</string>
+        <string>Prueba</string>
+      </entry>
+    </listHeader>
+  </header>
+  <form>
+    <listForm>
+      <entry>
+        <string>puntos</string>
+        <string>2000</string>
+      </entry>
+    </listForm>
+  </form>
+  <settings>
+    <listConfig>
+      <entry>
+        <string>timeRequest</string>
+        <string>3600</string>
+      </entry>
+    </listConfig>
+  </settings>
+</com.dcore.request.DataPeticion>
